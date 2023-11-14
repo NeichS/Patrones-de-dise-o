@@ -8,6 +8,7 @@ public class Main {
         producto = new Papa(producto);
         producto = new Queso(producto);
         producto = new Queso(producto);
+        producto = new Carne(producto);
 
 
 

@@ -9,7 +9,7 @@ public class Carne extends Adicional {
 
     @Override
     public String toString() {
-        return producto + "\nExtra carne" + valor;
+        return producto + "\nExtra carne " + valor;
     }
 
     @Override
